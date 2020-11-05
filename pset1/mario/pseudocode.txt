@@ -1,0 +1,6 @@
+Prompt user for height
+If height < 1 or > 8 (or not an integer ), go back to line 1 and re-prompt
+Repeat from 1 through height:
+On iteration i, print j dots/spaces and i hashes, then make a new line
+On iteration i+1, print (j-1) dots/spaces and (i+1) hashes, then make a new line
+Repeat line five as many times as prompted.
